@@ -1,4 +1,4 @@
-package com.mobile.auto;
+package com.mobile;
 
 import static org.junit.Assert.assertTrue;
 
